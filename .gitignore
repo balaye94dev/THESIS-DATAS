@@ -1,0 +1,5 @@
+# .gitignore
+*.nc
+*.zip
+*.rar
+*.hdf
