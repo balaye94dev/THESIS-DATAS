@@ -4,9 +4,9 @@ import os
 
 # Fichiers EPW
 files = {
-    "Référence (présente)": "kolda.epw",
-    "Projection 2050": "kolda2050.epw",
-    "Projection 2080": "kolda2080.epw"
+    "Référence (présente)": "Ziguinchor.epw",
+    "Projection 2050": "Ziguinchor2050.epw",
+    "Projection 2080": "Ziguinchor2080.epw"
 }
 
 def load_epw_temp(path):

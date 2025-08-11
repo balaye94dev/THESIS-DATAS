@@ -48,4 +48,4 @@ def clean_epw(input_path, output_path):
             f_out.write(line + "\n")
 
 # Exemple d'utilisation
-clean_epw("kolda_2080.epw", "kolda2080.epw")
+clean_epw("Ziguinchor_2050.epw", "Ziguinchor2050.epw")
