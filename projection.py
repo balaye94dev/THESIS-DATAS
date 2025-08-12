@@ -4,9 +4,9 @@ import os
 
 # Fichiers EPW
 files = {
-    "Référence (présente)": "Ziguinchor.epw",
-    "Projection 2050": "Ziguinchor2050.epw",
-    "Projection 2080": "Ziguinchor2080.epw"
+    "Référence (présente)": "SIMUL/dakar.epw",
+    "Projection 2050": "SIMUL/dakar2050.epw",
+    "Projection 2080": "SIMUL/dakar2080.epw"
 }
 
 def load_epw_temp(path):
